@@ -6,7 +6,6 @@ const style = document.createElement('style');
         justify-content: center;
         align-items: center;
         height: 100vh;
-        background:rgb(70, 2, 46);
       }
 
       .field {
